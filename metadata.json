@@ -1,0 +1,6 @@
+{
+  "name": "SoNa Bakes By Hina",
+  "description": "SoNa Bakes By Hina is a home bakery in Dhirkot, Azad Kashmir offering customized cakes, birthday cakes, theme cakes, fondant cakes, wedding cakes, cupcakes and sweet treats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
